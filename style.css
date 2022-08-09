@@ -1,0 +1,49 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_song{
+    float: left;
+    margin-left: 15px;
+}
+
+.div_song_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#song{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.div_song2{
+    float: right;
+    margin-right: 15px;
+}
+
+.div_song_img2{
+    width: 200px;
+    border-radius: 100px;
+}
+
+
+#head{
+    background-color: darkcyan;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
